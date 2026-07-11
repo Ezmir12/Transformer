@@ -1,6 +1,9 @@
-**Author:** Yonatan Azmir | yonatanezmir@gmail.com
-
 # 🧠 Decoder-Only Transformer Web Interface
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![Django](https://img.shields.io/badge/Django-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This project implements a custom **Decoder-Only Transformer** (GPT from scratch) with support for **BOTH character-level and BERT tokenization**.
 
@@ -93,3 +96,8 @@ Backend uses the model file matching the selected type
 Frontend lets you switch between BERT and Character models
 
 Default hyperparameters: n_embd=128, n_layer=8, block_size=128, dropout=0.1
+
+---
+## 👤 Author
+**Yonatan Azmir**
+📧 yonatan.ugr-7707-16@aau.edu.et
